@@ -30,8 +30,6 @@ namespace FlowerServerAgain.Controllers
         [Authorize]
         public async Task<IActionResult> Index()
         {
-            //var applicationDbContext = _context.Carts.Include(c => c.Product).Include(c => c.User);
-            //return View(await applicationDbContext.ToListAsync());
             var Userid = _userManager.GetUserId(User);
             if (Userid == null)
             {
@@ -52,12 +50,9 @@ namespace FlowerServerAgain.Controllers
     
         [Authorize]
         [HttpPost]
-        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([FromBody] CartModel cartModel)
         {
 
-            //int productId = cartModel.productId;
-            //int CountPr = cartModel.CountPr;
             if (ModelState.IsValid)
             {
                 var userId = _userManager.GetUserId(User);
@@ -91,9 +86,7 @@ namespace FlowerServerAgain.Controllers
 
                 await _context.SaveChangesAsync();
                 return Ok();
-                    //RedirectToAction(nameof(Index));
             }
-            //ViewBag.Products = _context.Products;
             return Ok();
         }
 
@@ -103,87 +96,6 @@ namespace FlowerServerAgain.Controllers
             return Json(dataq);
         }
 
-        //[Authorize]
-        //[HttpPost]
-        ////[ValidateAntiForgeryToken]
-        ////Считает сумму? Я не помню зачем она? она же просто повторяет add\create, но сложнее и возращает json... 
-        ////думаю надо просто их соединить...
-        //public async Task<JsonResult> IntCount(int productId, int CountPr)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        var userId = _userManager.GetUserId(User);
-        //        var d = _context.Carts.Where(m => m.Product.Id == productId && m.UserId == userId);
-        //        if (!d.IsNullOrEmpty())
-        //        {
-        //            var cart1 = d.First();
-
-        //            if (cart1.CountPr <= 1 && CountPr < 0)
-        //            {
-        //                return returnCount(cart1);
-
-        //            }
-        //            cart1.CountPr += CountPr;
-        //            _context.Update(cart1);
-        //            await _context.SaveChangesAsync();
-        //            return returnCount(cart1);
-        //            //return Ok();
-
-        //        }
-
-        //        Cart cart = new Cart();
-
-        //        cart.Product = _context.Products.Find(productId);
-        //        cart.CountPr = CountPr;
-        //        cart.UserId = userId;
-        //        _context.Add(cart);
-
-        //        await _context.SaveChangesAsync();
-        //        //var data = new { Name = "John Doe", Age = 30 };
-        //        return returnCount(cart);
-        //        //return RedirectToAction(nameof(Index));
-        //    }
-        //    //ViewBag.Products = _context.Products;
-        //    //return View();
-        //    return Json(null);
-        //}
-
-        // GET: Carts/Delete/5
-        //public async Task<IActionResult> Delete(int? id)
-        //{
-        //    if (id == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    var cart = await _context.Carts
-        //        //.Include(c => c.Product)
-        //        //.Include(c => c.User)
-        //        .FirstOrDefaultAsync(m => m.Id == id);
-        //    if (cart == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    return View(cart);
-        //}
-
-        // POST: Carts/Delete/5
-        //[HttpPost, ActionName("Delete")]
-        //[Authorize]
-        ////[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> DeleteConfirmed(int id)
-        //{
-        //    var cart = await _context.Carts.FindAsync(id);
-        //    if (cart != null)
-        //    {
-        //        _context.Carts.Remove(cart);
-        //    }
-
-        //    await _context.SaveChangesAsync();
-        //    return Ok();
-        //    //RedirectToAction(nameof(Index));
-        //}
 
         private bool CartExists(int id)
         {

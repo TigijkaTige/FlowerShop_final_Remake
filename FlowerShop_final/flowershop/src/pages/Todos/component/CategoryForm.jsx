@@ -8,10 +8,8 @@ function CategoryForm() {
     const dispatch = useDispatch(); //диспетчер для отправки действий по изменению состояний
 
     const handleAddTodo = (e) => {
-        //console.log(title);
         e.preventDefault();
         dispatch(addCategoryTodo({ title }));
-        //window.location.reload();//поменять?
         setTitle("");
     };
 

@@ -28,7 +28,6 @@ const UploadAndDisplayImage = ({ selectedImage, onChange }) => {
         accept="image/*"
         onChange={(event) => {
           const file = event.target.files && event.target.files[0];
-           //confirmModal(event.currentTarget.files[0]);//почему-то он с задержкой принимает путь... очень странно (но тоесть меняю картинку, и там присвавыеться старый путь)
           onChange(file || null);
         }}
       />

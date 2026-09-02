@@ -49,19 +49,7 @@ namespace FlowerServerAgain.Controllers
             return product;
         }
 
-
-        // GET: Products/Create
-        //public IActionResult Create()
-        //{
-        //    ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id");
-        //    return View();
-        //}
-
-        // POST: Products/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        //[ValidateAntiForgeryToken]
         [Authorize(Roles = "Administrator")]
         public async Task<ActionResult<Product>> Create([FromForm] Product product, IFormFile Picture)//[Bind("Id,Title,Cost,ImagePath,Description,CategoryId")] 
         {
@@ -93,7 +81,6 @@ namespace FlowerServerAgain.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-        //[ValidateAntiForgeryToken]
         [Authorize(Roles = "Administrator")]
         public async Task<ActionResult<Product>> Edit(int id,[FromForm] Product product, IFormFile Picture)//[Bind("Id,Title,Cost,ImagePath,Description,CategoryId")]
         {
@@ -101,9 +88,6 @@ namespace FlowerServerAgain.Controllers
             {
                 return NotFound();
             }
-
-            //if (ModelState.IsValid)
-            //{
                 try
                 {
                     if (Picture != null)
@@ -140,15 +124,11 @@ namespace FlowerServerAgain.Controllers
                     }
                 }
                 return product;
-            //}
-            //ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", product.CategoryId);
-            //return product;
         }
 
 
         // POST: Products/Delete/5
         [HttpPost, ActionName("Delete")]
-        //[ValidateAntiForgeryToken]
         [Authorize(Roles = "Administrator")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -173,8 +153,6 @@ namespace FlowerServerAgain.Controllers
             {
                 return NotFound();
             }
-            // Construct absolute image path
-            //var imagePath = "whatever";
             var product = await _context.Products
                .FirstOrDefaultAsync(m => m.Id == id);
             if (product.ImagePath == null || product.ImagePath == "")
@@ -185,7 +163,6 @@ namespace FlowerServerAgain.Controllers
             Bitmap newImage = new Bitmap(im, new Size(x, y));                    
             MemoryStream memory = new MemoryStream();
 
-            //im.Save(memory, new Aspose.Imaging.ImageOptions.JpegOptions()); Этот Аспоре при выводе водяной знак делал
             newImage.Save(memory, ImageFormat.Jpeg);
             if (product == null)
             {

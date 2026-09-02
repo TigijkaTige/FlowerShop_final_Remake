@@ -13,15 +13,11 @@ function CategoryList() {
     const [displayConfirmationModal, setDisplayConfirmationModal] = useState(false);
     const [displayConfirmationEditModal, setDisplayConfirmationEditModal] = useState(false);
     const [deleteMessage, setDeleteMessage] = useState(null);
-    //const [categoryMessage, setCategoryMessage] = useState(null);
 
     useEffect(() => {
         dispatch(loadCategoryTodos());
     }, []);
-//     useEffect(() => {
 
-// }, [dependencies]);
-    
 const showDeleteModal = (id) => {
     setId(id);
     setDeleteMessage(`вы уверены что хотите удалить категорию '${todos.find((x) => x.id === id).title}'?`);
@@ -44,8 +40,6 @@ const hideConfirmationEditModal = () => {
 
   // Handle the actual deletion of the item
     const submitDelete = (id) => {
-        //setCategoryMessage(`категория '${todos.find((x) => x.id === id).title}' была успешно удалена.`);
-        //Или там removeTodos(todo.id)?
         dispatch(removeCategoryTodo(id));
     setDisplayConfirmationModal(false);
 };
@@ -91,9 +85,6 @@ const hideConfirmationEditModal = () => {
                                             <button
                                                 className="btn btn-success btn-sm"
                                                 onClick={() => showEditModal(todo.id, todo.title)
-                                                    // dispatch(
-                                                    //     editTodo(todo.id, todo.title)
-                                                    // )
                                                 }
                                                 
                                             >
@@ -101,9 +92,6 @@ const hideConfirmationEditModal = () => {
                                             </button>
                                             <button
                                                 onClick={() =>showDeleteModal(todo.id)
-                                                    // dispatch(                                                     
-                                                    //     //removeTodo(todo.id)
-                                                    // )
                                                 }
                                                 className="btn btn-danger btn-sm ms-3"
                                             >

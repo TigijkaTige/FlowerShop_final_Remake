@@ -23,7 +23,6 @@ function AdminOrders({ id, email, phone, orderDate, deliverDate, address, delive
                             onClick={() =>
                                 dispatch(
                                     cancelOrderTodo(id)
-                                    //removeTodo(todo.id)
                                 )
                             }
                         >Отменить заказ</button>
@@ -31,7 +30,6 @@ function AdminOrders({ id, email, phone, orderDate, deliverDate, address, delive
                         onClick={() =>
                                 dispatch(
                                     confirmOrderTodo(id)
-                                    //removeTodo(todo.id)
                                 )
                             }
                         >Подвердить получение</button>

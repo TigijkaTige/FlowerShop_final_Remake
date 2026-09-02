@@ -8,8 +8,6 @@ function OrderDeliveredList() {
     const dispatch = useDispatch(); //диспетчер для отправки действий по изменению состояний
     const orders= useSelector((state) => state.orders.delivered); //получаем состояние для чтения
     const loading = useSelector((state) => state.orders.loading);
-    //const navigate = useNavigate();
-
 
     useEffect(() => {
         dispatch(loadOrderAdminTodos());

@@ -12,12 +12,10 @@ function ProductForm() {
     const [cost, setCost] = useState("");
     const [description, setDes] = useState("");
     const [categoryId, setCategory] = useState("");
-    //const [imagePath, setImage] = useState("");
     const [picture, setPicture] = useState(null);
 
     const handleAddTodo = async (e) => {
         e.preventDefault();
-        //console.log(imagePath)
         await dispatch(addProductTodo({ title, cost, description, categoryId, picture }));
         dispatch(loadProductTodos());
         setTitle("");//стираем значения после добавления

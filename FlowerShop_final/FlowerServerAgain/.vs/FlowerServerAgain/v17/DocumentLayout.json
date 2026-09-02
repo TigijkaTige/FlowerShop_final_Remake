@@ -1,154 +1,152 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\",
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\data\\migrations\\20260430160317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\data\\migrations\\20260430160317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CartsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Controllers\\CartsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\ViewModels\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\ViewModels\\OrderModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\viewmodels\\orderwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\viewmodels\\orderwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderWithItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\ViewModels\\OrderWithItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\ViewModels\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Models\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\1774361877_84618150.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\1774361877_84618150.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\555343.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\555343.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\6104808762.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\6104808762.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\6104808762.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\6104808762.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\555343.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\555343.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\unnamed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\unnamed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\1774361877_84618150.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\1774361877_84618150.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\rkwnk4fgnrrmvxfv.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\rkwnk4fgnrrmvxfv.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\bunny.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\bunny.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\bunny.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\bunny.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\9hq.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\9hq.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\unnamed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\unnamed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\9hq.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\9hq.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\flowerserveragain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\flowerserveragain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\FlowerServerAgain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|c:\\users\\sofia\\source\\repos\\flowerserveragain\\flowerserveragain\\flowerserveragain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{29A6DA9F-DB56-4048-826E-1CF9BFAB604E}|FlowerServerAgain\\FlowerServerAgain.csproj|solutionrelative:flowerserveragain\\flowerserveragain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlowerServerAgain\\FlowerServerAgain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,7 +156,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 43,
+          "SelectedChildIndex": 42,
           "Children": [
             {
               "$type": "Bookmark",
@@ -187,10 +185,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -310,39 +304,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:14:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FlowerServerAgain\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAuwD8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T06:58:44.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwFYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T12:57:22.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CartsController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\CartsController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CartsController.cs",
               "RelativeToolTip": "FlowerServerAgain\\Controllers\\CartsController.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAowE8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T11:13:34.137Z",
               "EditorCaption": ""
@@ -350,36 +344,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:28:01.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260430160317_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
-              "ViewState": "AgIAAIABAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T16:45:29.649Z",
+              "WhenOpened": "2026-06-17T15:30:13.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwLEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:57:22.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:18:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "FlowerServerAgain\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,50 +395,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwGQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T16:45:30.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAA2AAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T11:18:40.268Z",
+              "WhenOpened": "2026-06-17T13:28:01.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Category.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderModel.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderModel.cs",
+              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:40:56.931Z",
+              "WhenOpened": "2026-06-16T15:21:34.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "OrderWithItems.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
               "RelativeToolTip": "FlowerServerAgain\\ViewModels\\OrderWithItems.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,47 +435,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderModel.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\OrderModel.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\OrderModel.cs",
-              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T15:21:34.158Z",
+              "WhenOpened": "2026-09-02T06:00:32.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T15:30:13.775Z"
+              "WhenOpened": "2026-04-30T11:24:27.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\User.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:40:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Product.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:05:57.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Order.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Order.cs",
               "RelativeToolTip": "FlowerServerAgain\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:40:49.955Z"
+              "WhenOpened": "2026-04-28T07:40:49.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Category.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:40:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Models\\Cart.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:24:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260430160317_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Data\\Migrations\\20260430160317_InitialCreate.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:45:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlowerServerAgain\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:45:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Program.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Program.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Program.cs",
               "RelativeToolTip": "FlowerServerAgain\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAUwDkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,71 +563,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Cart.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:24:36.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\OrderItem.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:24:27.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CartModel.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\CartModel.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\ViewModels\\CartModel.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\ViewModels\\CartModel.cs",
-              "RelativeToolTip": "FlowerServerAgain\\ViewModels\\CartModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T15:14:24.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\Product.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T12:05:57.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Models\\User.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Models\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAMBcwAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:40:50.747Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "FlowerServerAgain.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
               "RelativeToolTip": "FlowerServerAgain\\obj\\Debug\\net9.0\\FlowerServerAgain.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,121 +575,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "6104808762.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\6104808762.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\6104808762.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\6104808762.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\6104808762.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\6104808762.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\6104808762.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-24T06:05:01.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "555343.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\555343.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\555343.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\555343.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\555343.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\555343.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\555343.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-24T06:05:02.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "1774361877_84618150.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\1774361877_84618150.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\1774361877_84618150.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\1774361877_84618150.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\1774361877_84618150.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\1774361877_84618150.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\1774361877_84618150.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-24T06:05:03.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\8926r2d7bmwett4ghuu4liw6r6rn28iy.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-24T06:04:59.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg",
-              "RelativeToolTip": "FlowerServerAgain\\Image\\buket-iz-gerber-liziantusov-khrizantem-i-roz.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-20T18:23:32.251Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 27,
               "Title": "bunny.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\bunny.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\bunny.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\bunny.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\bunny.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\bunny.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\bunny.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-13T11:04:09.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "rKwnK4FgnrrmvxfV.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\rKwnK4FgnrrmvxfV.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-13T11:01:34.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "unnamed.png",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\unnamed.png",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\unnamed.png",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\unnamed.png",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\unnamed.png",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\unnamed.png",
               "RelativeToolTip": "FlowerServerAgain\\Image\\unnamed.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-13T10:53:15.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "9hq.png",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\9hq.png",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\9hq.png",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\9hq.png",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\9hq.png",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\9hq.png",
               "RelativeToolTip": "FlowerServerAgain\\Image\\9hq.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-19T09:41:16.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "buket-s-15-rozami-i-gerberami_10527_lg.jpg",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
               "RelativeToolTip": "FlowerServerAgain\\Image\\buket-s-15-rozami-i-gerberami_10527_lg.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-05-17T16:27:13.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\appsettings.json",
               "RelativeDocumentMoniker": "FlowerServerAgain\\appsettings.json",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\appsettings.json",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\appsettings.json",
               "RelativeToolTip": "FlowerServerAgain\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -683,11 +686,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\launchSettings.json",
               "RelativeToolTip": "FlowerServerAgain\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -695,11 +698,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Properties\\serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "FlowerServerAgain\\Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\Properties\\serviceDependencies.json",
               "RelativeToolTip": "FlowerServerAgain\\Properties\\serviceDependencies.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -707,23 +710,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 20,
               "Title": "20260430160317_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
               "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160317_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T16:03:17.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 21,
               "Title": "20260430160202_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
-              "RelativeDocumentMoniker": "FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
               "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
-              "RelativeToolTip": "FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\Migrations\\20260430160202_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T16:02:02.144Z"
             },
@@ -731,9 +734,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "FlowerServerAgain.csproj",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
               "RelativeDocumentMoniker": "FlowerServerAgain\\FlowerServerAgain.csproj",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
               "RelativeToolTip": "FlowerServerAgain\\FlowerServerAgain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -742,10 +745,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "FlowerServerAgain",
-              "DocumentMoniker": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
+              "Title": "FlowerServerAgain.csproj",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
               "RelativeDocumentMoniker": "FlowerServerAgain\\FlowerServerAgain.csproj",
-              "ToolTip": "C:\\Users\\sofia\\source\\repos\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\FlowerShop_final_Remake\\FlowerShop_final\\FlowerServerAgain\\FlowerServerAgain\\FlowerServerAgain.csproj",
               "RelativeToolTip": "FlowerServerAgain\\FlowerServerAgain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-26T06:11:24.168Z"

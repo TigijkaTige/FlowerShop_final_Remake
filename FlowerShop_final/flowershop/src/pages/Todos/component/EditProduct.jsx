@@ -23,9 +23,7 @@ function EditProduct() {
 
     const handleAddTodo = async (e) => {
         e.preventDefault();
-        //console.log(imagePath)
         await dispatch(editProductTodo({id, title, cost, description, categoryId, picture }));
-        //dispatch(loadProductTodos());
         navigate("/product");
 
     };

@@ -12,13 +12,8 @@ function AboutProduct() {
     const id = location.pathname.substring(15);
 
     const handleAddInCart = async (e) => {
-        //try {
             dispatch(addCartTodo({productId:id, CountPr: 1}))
             navigate("/cart");
-        // }
-        // catch(e){
-        //     navigate("/login");
-        // }
     };
     useEffect(() => {
         dispatch(detailsProductTodo(id));

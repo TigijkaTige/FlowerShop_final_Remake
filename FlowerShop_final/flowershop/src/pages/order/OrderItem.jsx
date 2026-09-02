@@ -8,7 +8,6 @@ function OrderItem({ orderDate, deliverDate, address, delivered, summa, items })
                         <h2 className="card-title">Заказ от {orderDate} &ensp; Доставим {deliverDate}</h2> :
                         <h2 className="card-title text-success">Доставлен {deliverDate}</h2>
                         }
-                    {/* <h2 className="card-title">Заказ от {orderDate} &ensp; Доставим {deliverDate}</h2> */}
 
                     <p className="card-title"> Адрес: {address}</p>
                 </div>

@@ -14,22 +14,7 @@ const detailsProductTodo = createAsyncThunk("product/detailsProduct", async (id)
     //console.log(data);
     return data;
 });
-// const addProductTodo = createAsyncThunk(
-//     "product/addProduct",
-//     async ({ title, cost, imagePath, description, categoryId}) => {
-//         const response = await fetch("http://localhost:5176/Products/Create", {
-//             method: "POST",
-//             headers: {
-//                 "Content-Type": "application/json",
-//                 Accept: "application/json",
-//             },
-//             body: JSON.stringify({ title, cost, imagePath, description, categoryId }),
-//         });
-//         const data = await response.json();
-//         console.log(data);
-//         return data;
-//     }
-// );
+
 const addProductTodo = createAsyncThunk(
     "product/addProduct",
     async ({ title, cost, description, categoryId, picture }) => {
@@ -60,17 +45,6 @@ const addProductTodo = createAsyncThunk(
 
 const editProductTodo = createAsyncThunk(
     "product/editProduct", async ({ id, title, cost, description, categoryId, picture }) => {
-        // const response = await fetch(`http://localhost:5176/Products/Edit/${id}`, {
-        //     method: "PUT",
-        //     headers: {
-        //         "Content-Type": "application/json",
-        //         Accept: "application/json",
-        //     },
-        //     body: JSON.stringify({id, title, cost, imagePath, description, categoryId }),
-        // });
-        // const data = await response.json();
-        // console.log(data);
-        // return data;
         const formData = new FormData();
         formData.append("Id", id);
         if (title !== undefined && title !== null) formData.append("Title", title);
@@ -133,19 +107,6 @@ const todoProductSlice = createSlice({
                 //state.error = action.payload.error;
                 state.error = action.error?.message || "Ошибка загрузки";
             })
-            // .addCase(addProductTodo.fulfilled, (state, action) => {
-            //     const todo = action.payload.todo;
-            //     state.message = action.payload.message;
-            //     console.log(state.message);
-            //     state.todos.push({
-            //         id: todo.id,
-            //         title: todo.title,
-            //         imagePath: todo.imagePath,
-            //         description: todo.description,
-            //         categoryId: todo.categoryId
-
-            //     });
-            // })
             .addCase(addProductTodo.fulfilled, (state, action) => {
                 if (Array.isArray(action.payload)) {
                     state.todos = action.payload;

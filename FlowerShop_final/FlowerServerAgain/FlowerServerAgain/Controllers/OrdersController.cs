@@ -60,7 +60,6 @@ namespace FlowerServerAgain.Controllers
                 Delivered = c.Delivered,
                 Summa = c.Summa
             });
-            //var u = _context.Orders.Where(m => m.UserId == Userid).Select(m => m.items. * m.CountPr).Sum();
 
             return Ok(new { message = "Ваши заказы", todos = viewOrders});
 
@@ -74,7 +73,6 @@ namespace FlowerServerAgain.Controllers
                 return NotFound();
             }
 
-            // var Userid = _userManager.GetUserId(User)
             var order = await _context.Orders
                .FirstOrDefaultAsync(m => m.Id == id);
 
@@ -82,7 +80,6 @@ namespace FlowerServerAgain.Controllers
             {
                 return View();
             }
-            //var orderIds = order.Select(y => y.Id).ToList();
             var items = _context.Items.Where(c => c.OrdersId == id).ToList();
             ViewBag.Products = _context.Products.ToList();
             var viewOrders = new OrderWithItems
@@ -97,15 +94,13 @@ namespace FlowerServerAgain.Controllers
             };
           
             return viewOrders;
-            //View();
-        }//не знаю 
+           
+        }
         [Authorize]
         [HttpPost]
-        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([FromBody] OrderModel orderModel)
         {
             var userId = _userManager.GetUserId(User);
-           // DateTime DeliverDate, string Address
 
             if (ModelState.IsValid)
             {
@@ -136,10 +131,8 @@ namespace FlowerServerAgain.Controllers
                 }
                 await _context.SaveChangesAsync();
                 return Ok(new {message ="Ваш заказ добавлен"});
-                    //RedirectToAction(nameof(Details), orders.Id);
 
             }
-            //Еще где-то тут мы перекопируем корзину в ordersItem
             return Ok();
 
         }
@@ -148,7 +141,6 @@ namespace FlowerServerAgain.Controllers
         // POST: Categories/Delete/5
         [Authorize(Roles = "Administrator")]
         [HttpPost, ActionName("Cancel")]
-        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> CancelConfirmed(int id)
         {
             var order = await _context.Orders.FindAsync(id);
@@ -161,13 +153,12 @@ namespace FlowerServerAgain.Controllers
 
             await _context.SaveChangesAsync();
             return Ok();
-                //RedirectToAction(nameof(AllMyOrder));
+                
         }
 
         // POST: Categories/Delete/5
         [Authorize(Roles = "Administrator")]
         [HttpPost, ActionName("Confirm")]
-        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> OrderConfirmed(int id)
         {
             var order = await _context.Orders.FindAsync(id);
@@ -184,7 +175,7 @@ namespace FlowerServerAgain.Controllers
             }
 
             return Ok();
-                //RedirectToAction(nameof(AllMyOrder));
+                
         }
 
     }

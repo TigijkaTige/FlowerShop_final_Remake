@@ -41,5 +41,4 @@ const  EditCategory = ( {showModal, hideModal, confirmModal, id, title}
     </Modal>
     )
 }
-//По моей идеи при изменение открыветься сплываюшее окошко с полями как на форме (может даже совю форму открываем).. Думаю так должно быть легче.. но я не уверена...
 export default EditCategory;
